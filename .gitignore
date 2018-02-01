@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/hello world/.vs/hello world/v15
+/hello world/.vs/hello world/v15
